@@ -1,2 +1,2 @@
-# Black-Jack
+# BlackJack
 Python text game
